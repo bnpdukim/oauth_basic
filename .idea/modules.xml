@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthorizationServer/AuthorizationServer.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthorizationServer/AuthorizationServer.iml" group="AuthorizationServer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthorizationServer/AuthorizationServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthorizationServer/AuthorizationServer_main.iml" group="AuthorizationServer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthorizationServer/AuthorizationServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthorizationServer/AuthorizationServer_test.iml" group="AuthorizationServer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ResourceServer/ResourceServer.iml" filepath="$PROJECT_DIR$/.idea/modules/ResourceServer/ResourceServer.iml" group="ResourceServer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ResourceServer/ResourceServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ResourceServer/ResourceServer_main.iml" group="ResourceServer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ResourceServer/ResourceServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ResourceServer/ResourceServer_test.iml" group="ResourceServer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oauth.iml" filepath="$PROJECT_DIR$/.idea/modules/oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuthorizationServer/AuthorizationServer.iml" filepath="$PROJECT_DIR$/AuthorizationServer/AuthorizationServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResourceServer/ResourceServer.iml" filepath="$PROJECT_DIR$/ResourceServer/ResourceServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth.iml" filepath="$PROJECT_DIR$/oauth.iml" />
     </modules>
   </component>
 </project>
