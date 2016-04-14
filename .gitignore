@@ -52,7 +52,7 @@ gradle.properties
 # IntelliJ specific files/directories
 out
 .idea
-.idea/*
+.idea/
 *.ipr
 *.iws
 *.iml
